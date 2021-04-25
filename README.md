@@ -21,7 +21,7 @@ From this [dataset](https://github.com/Shenggan/BCCD_Dataset), [nicolaschen1](ht
 
   * RBC (Red Blood Cell)
   * WBC (White Blood Cell)
-  * Platelets (血小板)
+  * Platelets
 
   ![example](./example.jpg)
 
